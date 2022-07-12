@@ -1,0 +1,41 @@
+[
+  {
+    "url": "http://jaring-store.herokuapp.com/api/apps/com.zhiliaoapp.musically",
+    "appId": "com.zhiliaoapp.musically",
+    "title": "PPD",
+    "summary": "Aplikasi BV",
+    "developer": "Jaring Solusi Aplikasi",
+    "developerId": "01",
+    "icon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA",
+    "score": 4.0,
+    "scoreText": "4",
+    "priceText": "0",
+    "free": true
+  },
+  {
+    "url": "http://jaring-store.herokuapp.com/api/apps/com.zhiliaoapp.musically",
+    "appId": "com.zhiliaoapp.musically",
+    "title": "KARCISKU",
+    "summary": "Aplikasi Z90",
+    "developer": "Jaring Solusi Aplikasi",
+    "developerId": "01",
+    "icon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA",
+    "score": 4.0,
+    "scoreText": "4",
+    "priceText": "0",
+    "free": true
+  },
+  {
+    "url": "http://jaring-store.herokuapp.com/api/apps/com.zhiliaoapp.musically",
+    "appId": "com.zhiliaoapp.musically",
+    "title": "CLARUS",
+    "summary": "Aplikasi Z90",
+    "developer": "Jaring Solusi Aplikasi",
+    "developerId": "01",
+    "icon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA",
+    "score": 4.0,
+    "scoreText": "4",
+    "priceText": "0",
+    "free": true
+  }
+]

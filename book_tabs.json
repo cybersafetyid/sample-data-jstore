@@ -1,0 +1,20 @@
+{
+  "tabs": [
+    {
+      "name": "Ebooks",
+      "logo": "ic_explorer"
+    },
+    {
+      "name": "Audiobooks",
+      "logo": "ic_graphic_eq_black_24dp"
+    },
+    {
+      "name": "Comics",
+      "logo": "ic_category"
+    },
+    {
+      "name": "Genres",
+      "logo": "icons8_starfish_24"
+    }
+  ]
+}
